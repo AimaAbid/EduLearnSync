@@ -1,0 +1,52 @@
+.post-page {
+   
+    height: 100%;
+    background-color:#eb0808; 
+    background-image: linear-gradient(to bottom, #720202, #9f4255, #b9809c, #d0bdd3, #f8f8f8);
+  }
+  
+  .post-container {
+    width: 80%;
+    
+    margin-left: 10%;
+    padding: 20px;
+    border-radius: 5px;
+    background-color:whitesmoke;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  }
+  
+  .post-title {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #eb0808;
+  }
+  
+  .post-author {
+    font-size: 20px;
+    font-weight: bold;
+    color: #2520c0;
+  }
+  
+  .post-image {
+    
+     width: 100%;
+  
+    
+    margin-top: 90px;
+  }
+  
+  .post-content {
+    margin-top: 20px;
+    font-size: 16px;
+    color: #520606;
+  }
+  .comment-picture{
+    width:100px
+  }
+  .post-content{
+    letter-spacing: 1px;
+    word-spacing: 2px;
+   line-height: 1.5; 
+   text-align: justify;
+  }
+  

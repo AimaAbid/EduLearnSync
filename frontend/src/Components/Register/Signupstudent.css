@@ -1,0 +1,77 @@
+.container-student {
+    width: 100%;
+    
+    border-radius: 5px;
+    height: 740px;
+    background-image: linear-gradient(to right bottom, #a61713, #be0035, #c50068, #aa00ac, #0000f7);
+   
+    display: flex;
+    
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.form-signup {
+    width: 400px;
+    height: 680px;
+    padding: 10px;
+    margin: 0 auto; /* Center the form horizontally */
+    display: flex;
+    flex-direction: column;
+    border:1px solid white;
+    background-color: white;
+    align-items: center; 
+}
+
+.form-group {
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+.form-signup label {
+    font-weight: bold;
+    text-align: left; /* Align label text to the left */
+    width: 100%; 
+    padding-left: 5px;
+}
+
+.form-group input {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+/* .btn-success {
+    display: block;
+    width: 50%;
+    margin: 0 auto;
+    padding:30px;
+    font-size: 16px;
+    text-align: center;
+    background-color: #28a745;
+    border-radius: 5px;
+    cursor: pointer;
+} */
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.already{
+    color: red
+}
+
+
+
+
+
+
+
+
+
+ 

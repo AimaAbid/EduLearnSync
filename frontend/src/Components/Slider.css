@@ -1,0 +1,28 @@
+.big-image{
+   
+    width:600px;
+    height: 400px;
+    
+    padding: 20px;
+    
+}
+
+#cnt{
+    margin-top: 300px;
+}
+
+
+.image{
+   
+   width: 0px;
+   height: 0px;
+  
+   
+
+}
+
+
+#cont{
+    text-align: center;
+    
+}

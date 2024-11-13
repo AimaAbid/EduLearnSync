@@ -1,0 +1,59 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+   
+    
+}
+
+.badge-image{
+    
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+.course-heading{
+    color:steelblue;
+   
+    text-align: center;
+    font-weight:700;
+    font-size:xx-large;
+    margin-top: 50px;
+     margin-bottom: 50px;
+     letter-spacing: 1px;
+    word-spacing: 2px;
+   line-height: 1.5; 
+   
+}
+
+.container{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 5%;
+    margin-right: 5%;
+    display: block;
+    margin-bottom:50px ;
+    letter-spacing: 1px;
+     word-spacing: 2px;
+    line-height: 1.5; 
+    text-align: justify;
+}
+
+
+
+
+
+.normal-heading{
+    color:steelblue;
+    text-align: center;
+    font-weight:700;
+    font-size:large;
+    margin-top: 50px;
+     margin-bottom: 50px;
+     letter-spacing: 1px;
+    word-spacing: 2px;
+   line-height: 1.5; 
+   
+    
+}
+
