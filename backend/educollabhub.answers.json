@@ -1,0 +1,240 @@
+[{
+  "_id": {
+    "$oid": "66ab66be04cfaf13b044399f"
+  },
+  "question": "What does 'CIA' stand for in cybersecurity?",
+  "options": {
+    "A": "Confidentiality, Integrity, Availability",
+    "B": "Confidentiality, Identity, Authentication",
+    "C": "Control, Integrity, Availability"
+  },
+  "answer": "A"
+},
+{
+  "_id": {
+    "$oid": "66ab66be04cfaf13b04439a0"
+  },
+  "question": "What is the purpose of a firewall?",
+  "options": {
+    "A": "To prevent unauthorized access to or from a private network",
+    "B": "To scan for viruses",
+    "C": "To monitor network traffic"
+  },
+  "answer": "A"
+},
+{
+  "_id": {
+    "$oid": "66ab66be04cfaf13b04439a1"
+  },
+  "question": "Which attack involves overwhelming a system with excessive traffic?",
+  "options": {
+    "A": "Phishing",
+    "B": "DDoS",
+    "C": "Man-in-the-Middle"
+  },
+  "answer": "B"
+},
+{
+  "_id": {
+    "$oid": "66ab66be04cfaf13b04439a2"
+  },
+  "question": "What is the main goal of encryption?",
+  "options": {
+    "A": "To make data unreadable to unauthorized users",
+    "B": "To compress data",
+    "C": "To increase data speed"
+  },
+  "answer": "A"
+},
+{
+  "_id": {
+    "$oid": "66ab66be04cfaf13b04439a3"
+  },
+  "question": "What is 'Phishing'?",
+  "options": {
+    "A": "A social engineering attack",
+    "B": "A type of malware",
+    "C": "A form of encryption"
+  },
+  "answer": "A"
+},
+{
+  "_id": {
+    "$oid": "66ab66be04cfaf13b04439a4"
+  },
+  "question": "What is a common feature of a VPN?",
+  "options": {
+    "A": "Encrypts internet traffic",
+    "B": "Monitors network activity",
+    "C": "Blocks spam emails"
+  },
+  "answer": "A"
+},
+{
+  "_id": {
+    "$oid": "66ab66be04cfaf13b04439a5"
+  },
+  "question": "Which protocol is used to secure web traffic?",
+  "options": {
+    "A": "HTTP",
+    "B": "FTP",
+    "C": "HTTPS"
+  },
+  "answer": "C"
+},
+{
+  "_id": {
+    "$oid": "66ab66be04cfaf13b04439a6"
+  },
+  "question": "What is a 'zero-day' vulnerability?",
+  "options": {
+    "A": "A vulnerability that is publicly unknown",
+    "B": "A vulnerability that has been patched",
+    "C": "A vulnerability found in outdated software"
+  },
+  "answer": "A"
+},
+{
+  "_id": {
+    "$oid": "66ab66be04cfaf13b04439a7"
+  },
+  "question": "What does 'multi-factor authentication' involve?",
+  "options": {
+    "A": "Combining several authentication methods",
+    "B": "Using multiple passwords",
+    "C": "Encrypting data with multiple keys"
+  },
+  "answer": "A"
+},
+{
+  "_id": {
+    "$oid": "66ab66be04cfaf13b04439a8"
+  },
+  "question": "What is 'social engineering'?",
+  "options": {
+    "A": "Manipulating people into divulging confidential information",
+    "B": "Analyzing software for security flaws",
+    "C": "Setting up network defenses"
+  },
+  "answer": "A"
+},
+{
+  "_id": {
+    "$oid": "66ab66be04cfaf13b04439a9"
+  },
+  "question": "Which is an example of a strong password policy?",
+  "options": {
+    "A": "Passwords with a mix of letters, numbers, and special characters",
+    "B": "Short and easy to remember passwords",
+    "C": "Passwords containing only letters"
+  },
+  "answer": "A"
+},
+{
+  "_id": {
+    "$oid": "66ab66be04cfaf13b04439aa"
+  },
+  "question": "What is 'ransomware'?",
+  "options": {
+    "A": "Malware that encrypts files and demands payment for decryption",
+    "B": "An attack that redirects users to fraudulent websites",
+    "C": "A method of unauthorized data access"
+  },
+  "answer": "A"
+},
+{
+  "_id": {
+    "$oid": "66ab66be04cfaf13b04439ab"
+  },
+  "question": "What is 'penetration testing'?",
+  "options": {
+    "A": "The process of testing a system for vulnerabilities",
+    "B": "The encryption of sensitive data",
+    "C": "The monitoring of network traffic"
+  },
+  "answer": "A"
+},
+{
+  "_id": {
+    "$oid": "66ab66be04cfaf13b04439ac"
+  },
+  "question": "Which term describes software designed to gather information without user consent?",
+  "options": {
+    "A": "Spyware",
+    "B": "Ransomware",
+    "C": "Trojan horse"
+  },
+  "answer": "A"
+},
+{
+  "_id": {
+    "$oid": "66ab66be04cfaf13b04439ad"
+  },
+  "question": "What is 'SQL Injection'?",
+  "options": {
+    "A": "A type of attack that manipulates SQL queries",
+    "B": "A method of encrypting data",
+    "C": "A tool for monitoring database activity"
+  },
+  "answer": "A"
+},
+{
+  "_id": {
+    "$oid": "66ab66be04cfaf13b04439ae"
+  },
+  "question": "Which method is commonly used to secure data during transmission?",
+  "options": {
+    "A": "Encryption",
+    "B": "Compression",
+    "C": "Data masking"
+  },
+  "answer": "A"
+},
+{
+  "_id": {
+    "$oid": "66ab66be04cfaf13b04439af"
+  },
+  "question": "What does 'two-factor authentication' require?",
+  "options": {
+    "A": "Two different types of authentication",
+    "B": "Two separate devices",
+    "C": "Two passwords"
+  },
+  "answer": "A"
+},
+{
+  "_id": {
+    "$oid": "66ab66be04cfaf13b04439b0"
+  },
+  "question": "What is a 'backdoor'?",
+  "options": {
+    "A": "A hidden method of bypassing security controls",
+    "B": "A type of encryption algorithm",
+    "C": "A backup strategy"
+  },
+  "answer": "A"
+},
+{
+  "_id": {
+    "$oid": "66ab66be04cfaf13b04439b1"
+  },
+  "question": "Which term describes a security flaw or weakness in a system?",
+  "options": {
+    "A": "Vulnerability",
+    "B": "Malware",
+    "C": "Threat"
+  },
+  "answer": "A"
+},
+{
+  "_id": {
+    "$oid": "66ab66be04cfaf13b04439b2"
+  },
+  "question": "What is 'cross-site scripting' (XSS)?",
+  "options": {
+    "A": "A vulnerability allowing attackers to inject scripts into web pages",
+    "B": "A method of encrypting data",
+    "C": "A type of firewall"
+  },
+  "answer": "A"
+}]

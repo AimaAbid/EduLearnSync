@@ -1,0 +1,513 @@
+[{
+  "_id": {
+    "$oid": "66a3a9e24d891eb7b3453d27"
+  },
+  "moduleId": "1.1",
+  "questionText": "What are the different type of personal identities?",
+  "options": {
+    "A": "Online",
+    "B": "Offline",
+    "C": "Both",
+    "D": "None"
+  },
+  "correctAnswer": "C",
+  "insight": "We all have offline as well as online identities"
+},
+{
+  "_id": {
+    "$oid": "66a3aa994d891eb7b3453d28"
+  },
+  "moduleId": "1.1",
+  "questionText": "In cybersecurity, safeguarding online identity focuses on ?",
+  "options": {
+    "A": "Protecting digital credentials",
+    "B": " Ensuring secure access to online services",
+    "C": "Mitigating risks such as phishing, data breaches, and unauthorized access to personal and professional online accounts",
+    "D": "All of the above"
+  },
+  "correctAnswer": "D",
+  "insight": " In cybersecurity, safegaurding online identity focusses on protecting digital credentials, ensuring secure access to online services, migitating risks such as phishing, data breaches and unauthorized access"
+},
+{
+  "_id": {
+    "$oid": "66a501a1bc6b901e593bc355"
+  },
+  "moduleId": "1.2",
+  "questionText": "What are the different types of traditional data?",
+  "options": {
+    "A": "Financial data such as income statements, balance sheets and cash flow statements, which provide insight into the health of a company.",
+    "B": "Trade Secrets",
+    "C": "Customer Information",
+    "D": "All of the above"
+  },
+  "correctAnswer": "D",
+  "insight": "Financial data such as income statements, balance sheets and cash flow statements, which provide insight into the health of a company,trade secrets, customer information are the various types of traditional data"
+},
+{
+  "_id": {
+    "$oid": "66a5026bbc6b901e593bc356"
+  },
+  "moduleId": "1.2",
+  "questionText": "The Perisai botnet security breach involved a massive network of infected devices used to launch coordinated cyber attacks. Hackers exploited vulnerabilities in IoT devices to create this botnet, targeting websites and online services. The breach caused significant disruptions and highlighted the need for stronger IoT security measures.How?",
+  "options": {
+    "A": "The incident underscored the importance of regular software updates and robust security protocols for connected devices.",
+    "B": "It showed the importance of encryption of data",
+    "C": "It emphasized the need to not using IOT devices",
+    "D": "None of the above"
+  },
+  "correctAnswer": "A",
+  "insight": "The Perisai botnet security breach involved a massive network of infected devices used to launch coordinated cyber attacks. Hackers exploited vulnerabilities in IoT devices to create this botnet"
+},
+{
+  "_id": {
+    "$oid": "66a509f2bc6b901e593bc358"
+  },
+  "moduleId": "2.1",
+  "questionText": "Cyber criminals use many different types of malicious software, or malware. What do they aim to do?",
+  "options": {
+    "A": "To steal data, bypass access controls, or cause harm to or compromise a system.",
+    "B": "To help civilians",
+    "C": "Cyber crime is nothing serious",
+    "D": "To find vulnerabilities in a system"
+  },
+  "correctAnswer": "A",
+  "insight": "Cyber criminals use many different types of malicious software, or malware tosteal data, bypass access controls, or cause harm to or compromise a system."
+},
+{
+  "_id": {
+    "$oid": "66a50afcbc6b901e593bc359"
+  },
+  "moduleId": "2.1",
+  "questionText": "Which of the following is true about a backdoor?",
+  "options": {
+    "A": "Backdoor is used to gain unauthorized access by bypassing the normal authentication procedures to access a system.",
+    "B": "Hackers can gain remote access to resources within an application and issue remote system commands.",
+    "C": "A backdoor works in the background and is difficult to detect.",
+    "D": "All of the above"
+  },
+  "correctAnswer": "D",
+  "insight": "Backdoor is used to gain unauthorized access by bypassing the normal authentication procedures to access a system. Hackers can gain remote access to resources within an application and issue remote system commands.A backdoor works in the background and is difficult to detect."
+},
+{
+  "_id": {
+    "$oid": "66ab674e04cfaf13b04439b4"
+  },
+  "question": "What does 'CIA' stand for in cybersecurity?",
+  "options": {
+    "A": "Confidentiality, Integrity, Availability",
+    "B": "Confidentiality, Identity, Authentication",
+    "C": "Control, Integrity, Availability"
+  },
+  "correctAnswer": "A",
+  "moduleId": "5"
+},
+{
+  "_id": {
+    "$oid": "66ab674e04cfaf13b04439b5"
+  },
+  "question": "What is the purpose of a firewall?",
+  "options": {
+    "A": "To prevent unauthorized access to or from a private network",
+    "B": "To scan for viruses",
+    "C": "To monitor network traffic"
+  },
+  "correctAnswer": "A",
+  "moduleId": "5"
+},
+{
+  "_id": {
+    "$oid": "66ab674e04cfaf13b04439b6"
+  },
+  "question": "Which attack involves overwhelming a system with excessive traffic?",
+  "options": {
+    "A": "Phishing",
+    "B": "DDoS",
+    "C": "Man-in-the-Middle"
+  },
+  "correctAnswer": "A",
+  "moduleId": "5"
+},
+{
+  "_id": {
+    "$oid": "66ab674e04cfaf13b04439b7"
+  },
+  "question": "What is the main goal of encryption?",
+  "options": {
+    "A": "To make data unreadable to unauthorized users",
+    "B": "To compress data",
+    "C": "To increase data speed"
+  },
+  "correctAnswer": "A",
+  "moduleId": "5"
+},
+{
+  "_id": {
+    "$oid": "66ab674e04cfaf13b04439b8"
+  },
+  "question": "What is 'Phishing'?",
+  "options": {
+    "A": "A social engineering attack",
+    "B": "A type of malware",
+    "C": "A form of encryption"
+  },
+  "correctAnswer": "A",
+  "moduleId": "5"
+},
+{
+  "_id": {
+    "$oid": "66ab674e04cfaf13b04439b9"
+  },
+  "question": "What is a common feature of a VPN?",
+  "options": {
+    "A": "Encrypts internet traffic",
+    "B": "Monitors network activity",
+    "C": "Blocks spam emails"
+  },
+  "correctAnswer": "A",
+  "moduleId": "5"
+},
+{
+  "_id": {
+    "$oid": "66ab674e04cfaf13b04439ba"
+  },
+  "question": "Which protocol is used to secure web traffic?",
+  "options": {
+    "A": "HTTP",
+    "B": "FTP",
+    "C": "HTTPS"
+  },
+  "correctAnswer": "A",
+  "moduleId": "5"
+},
+{
+  "_id": {
+    "$oid": "66ab674e04cfaf13b04439bb"
+  },
+  "question": "What is a 'zero-day' vulnerability?",
+  "options": {
+    "A": "A vulnerability that is publicly unknown",
+    "B": "A vulnerability that has been patched",
+    "C": "A vulnerability found in outdated software"
+  },
+  "correctAnswer": "A",
+  "moduleId": "5"
+},
+{
+  "_id": {
+    "$oid": "66ab674e04cfaf13b04439bc"
+  },
+  "question": "What does 'multi-factor authentication' involve?",
+  "options": {
+    "A": "Combining several authentication methods",
+    "B": "Using multiple passwords",
+    "C": "Encrypting data with multiple keys"
+  },
+  "correctAnswer": "A",
+  "moduleId": "5"
+},
+{
+  "_id": {
+    "$oid": "66ab674e04cfaf13b04439bd"
+  },
+  "question": "What is 'social engineering'?",
+  "options": {
+    "A": "Manipulating people into divulging confidential information",
+    "B": "Analyzing software for security flaws",
+    "C": "Setting up network defenses"
+  },
+  "correctAnswer": "A",
+  "moduleId": "5"
+},
+{
+  "_id": {
+    "$oid": "66ab674e04cfaf13b04439be"
+  },
+  "question": "Which is an example of a strong password policy?",
+  "options": {
+    "A": "Passwords with a mix of letters, numbers, and special characters",
+    "B": "Short and easy to remember passwords",
+    "C": "Passwords containing only letters"
+  },
+  "correctAnswer": "A",
+  "moduleId": "5"
+},
+{
+  "_id": {
+    "$oid": "66ab674e04cfaf13b04439bf"
+  },
+  "question": "What is 'ransomware'?",
+  "options": {
+    "A": "Malware that encrypts files and demands payment for decryption",
+    "B": "An attack that redirects users to fraudulent websites",
+    "C": "A method of unauthorized data access"
+  },
+  "correctAnswer": "A",
+  "moduleId": "5"
+},
+{
+  "_id": {
+    "$oid": "66ab674e04cfaf13b04439c0"
+  },
+  "question": "What is 'penetration testing'?",
+  "options": {
+    "A": "The process of testing a system for vulnerabilities",
+    "B": "The encryption of sensitive data",
+    "C": "The monitoring of network traffic"
+  },
+  "correctAnswer": "A",
+  "moduleId": "5"
+},
+{
+  "_id": {
+    "$oid": "66ab674e04cfaf13b04439c1"
+  },
+  "question": "Which term describes software designed to gather information without user consent?",
+  "options": {
+    "A": "Spyware",
+    "B": "Ransomware",
+    "C": "Trojan horse"
+  },
+  "correctAnswer": "A",
+  "moduleId": "5"
+},
+{
+  "_id": {
+    "$oid": "66ab674e04cfaf13b04439c2"
+  },
+  "question": "What is 'SQL Injection'?",
+  "options": {
+    "A": "A type of attack that manipulates SQL queries",
+    "B": "A method of encrypting data",
+    "C": "A tool for monitoring database activity"
+  },
+  "answer": "A",
+  "moduleId": "5"
+},
+{
+  "_id": {
+    "$oid": "66ab674e04cfaf13b04439c3"
+  },
+  "question": "Which method is commonly used to secure data during transmission?",
+  "options": {
+    "A": "Encryption",
+    "B": "Compression",
+    "C": "Data masking"
+  },
+  "answer": "A",
+  "moduleId": "5"
+},
+{
+  "_id": {
+    "$oid": "66ab674e04cfaf13b04439c4"
+  },
+  "question": "What does 'two-factor authentication' require?",
+  "options": {
+    "A": "Two different types of authentication",
+    "B": "Two separate devices",
+    "C": "Two passwords"
+  },
+  "answer": "A",
+  "moduleId": "5"
+},
+{
+  "_id": {
+    "$oid": "66ab674e04cfaf13b04439c5"
+  },
+  "question": "What is a 'backdoor'?",
+  "options": {
+    "A": "A hidden method of bypassing security controls",
+    "B": "A type of encryption algorithm",
+    "C": "A backup strategy"
+  },
+  "answer": "A",
+  "moduleId": "5"
+},
+{
+  "_id": {
+    "$oid": "66ab674e04cfaf13b04439c6"
+  },
+  "question": "Which term describes a security flaw or weakness in a system?",
+  "options": {
+    "A": "Vulnerability",
+    "B": "Malware",
+    "C": "Threat"
+  },
+  "answer": "A",
+  "moduleId": "5"
+},
+{
+  "_id": {
+    "$oid": "66ab674e04cfaf13b04439c7"
+  },
+  "question": "What is 'cross-site scripting' (XSS)?",
+  "options": {
+    "A": "A vulnerability allowing attackers to inject scripts into web pages",
+    "B": "A method of encrypting data",
+    "C": "A type of firewall"
+  },
+  "answer": "A"
+},
+{
+  "_id": {
+    "$oid": "66d59ba52b25ca9e9cd9268c"
+  },
+  "question": "Which one is a legal profession",
+  "options": {
+    "A": "White Hat Hacker",
+    "B": "Black Hat Hacker",
+    "C": "Grey Hat Hacker",
+    "D": "Red Hat Hacker"
+  },
+  "correctAnswer": "A",
+  "moduleId": "5"
+},
+{
+  "_id": {
+    "$oid": "66d65a4cf699ed851a608cb7"
+  },
+  "questionText": "Which one is an infilteration technique?",
+  "options": {
+    "A": "Denial-of-Service",
+    "B": "Distributed DOS",
+    "C": "Botnet",
+    "D": "All of the above"
+  },
+  "correctAnswer": "D",
+  "moduleId": "2.1",
+  "insight": "Infiltration techniques involve methods used by attackers to secretly penetrate a network or system, gaining unauthorized access while avoiding detection. These techniques often exploit vulnerabilities or use social engineering to bypass security controls."
+},
+{
+  "_id": {
+    "$oid": "66d65cbe142c048a8e6fa1b5"
+  },
+  "questionText": "Which of the following is correct in context to social engineering",
+  "options": {
+    "A": "Social engineering is the manipulation of people into performing actions or divulging confidential information",
+    "B": "Social engineers often rely on people’s willingness to be helpful, but they also prey on their weaknesses.",
+    "C": "For example, an attacker will call an authorized employee with an urgent problem that requires immediate network access and appeal to the employee’s vanity or greed",
+    "D": "All of the above"
+  },
+  "correctAnswer": "D",
+  "insight": "Social engineering is a manipulation technique where attackers deceive individuals into divulging confidential information or performing actions that compromise security. It often exploits human psychology, such as trust or fear, to bypass technical security measures.",
+  "moduleId": "2.2"
+},
+{
+  "_id": {
+    "$oid": "66d65e27142c048a8e6fa1b6"
+  },
+  "questionText": "Which of the following is the most effective way to protect your devices from malware?",
+  "options": {
+    "A": " Using a strong password",
+    "B": "Installing antivirus software",
+    "C": "Turning off Wi-Fi when not in use",
+    "D": "Regularly updating your operating system"
+  },
+  "correctAnswer": "B",
+  "insight": "The most effective way to protect your devices from malware is to install antivirus software. Antivirus programs are specifically designed to detect, block, and remove malicious software that can harm your device. While strong passwords and regular updates are important for overall security, antivirus software directly targets and mitigates the risk of malware.",
+  "moduleId": "3.1"
+},
+{
+  "_id": {
+    "$oid": "66d65f00142c048a8e6fa1b7"
+  },
+  "questionText": "What is the primary purpose of a firewall in protecting your device?",
+  "options": {
+    "A": "To block unauthorized access",
+    "B": "To speed up internet connectivity",
+    "C": " To store passwords securely",
+    "D": "To backup data automatically"
+  },
+  "correctAnswer": "A",
+  "insight": "The primary purpose of a firewall is to block unauthorized access to your device or network. It acts as a barrier between your trusted internal network and untrusted external networks, such as the internet, controlling the incoming and outgoing traffic based on predefined security rules.",
+  "moduleId": "3.1"
+},
+{
+  "_id": {
+    "$oid": "66d66049142c048a8e6fa1b8"
+  },
+  "questionText": "What is the primary purpose of encryption?",
+  "options": {
+    "A": "To compress files",
+    "B": "To protect data by converting it into a secure format",
+    "C": "To organize files on your computer",
+    "D": "To speed up internet browsing"
+  },
+  "correctAnswer": "B",
+  "insight": "Encryption’s primary purpose is to protect data by converting it into a format that is unreadable without the appropriate decryption key. This ensures that sensitive information remains secure from unauthorized access.",
+  "moduleId": "3.2"
+},
+{
+  "_id": {
+    "$oid": "66d660e0142c048a8e6fa1b9"
+  },
+  "questionText": "Which of the following is the best practice for ensuring data backups are reliable and recoverable?",
+  "options": {
+    "A": "Perform backups only once a year",
+    "B": "Store backups on a single external hard drive",
+    "C": "Regularly test backups to ensure they can be restored",
+    "D": "Keep backups in the same physical location as the original data"
+  },
+  "correctAnswer": "C",
+  "insight": "Regularly testing backups is crucial to ensure they are functional and can be successfully restored when needed. This practice helps verify that the backup process is working correctly and that the data is not corrupted or lost. Relying on infrequent backups, a single storage device, or keeping backups in the same location as the original data increases the risk of losing both the original data and the backup in case of hardware failure or disaster.",
+  "moduleId": "3.2"
+},
+{
+  "_id": {
+    "$oid": "66d66208142c048a8e6fa1ba"
+  },
+  "questionText": "What is the primary function of a router in a network?",
+  "options": {
+    "A": "To provide power to connected devices",
+    "B": "To manage and direct data traffic between networks",
+    "C": "To store and organize data files",
+    "D": "To encrypt and decrypt data"
+  },
+  "correctAnswer": "B",
+  "insight": "A router’s main function is to manage and direct data traffic between different networks, such as between a local network and the internet. It ensures that data packets are sent to the correct destination efficiently.",
+  "moduleId": "4.1"
+},
+{
+  "_id": {
+    "$oid": "66d6627d142c048a8e6fa1bb"
+  },
+  "questionText": "What does a firewall primarily do in a computer network?",
+  "options": {
+    "A": "Monitors and controls network traffic based on security rules",
+    "B": "Boosts internet speed",
+    "C": "Provides data storage",
+    "D": "Manages user authentication"
+  },
+  "correctAnswer": "A",
+  "insight": "A firewall’s primary role is to monitor and control network traffic based on predetermined security rules to block unauthorized access and protect the network from potential threats.",
+  "moduleId": "4.1"
+},
+{
+  "_id": {
+    "$oid": "66d66303142c048a8e6fa1bc"
+  },
+  "questionText": "What is a honeypot used for in cybersecurity?",
+  "options": {
+    "A": "To serve as a real network resource for users",
+    "B": "To attract and trap potential attackers for analysis",
+    "C": "To back up critical data",
+    "D": "To increase network bandwidth"
+  },
+  "correctAnswer": "B",
+  "insight": "A honeypot is a decoy system set up to attract and trap attackers, allowing security professionals to analyze their methods and gather intelligence without risking real assets.",
+  "moduleId": "4.2"
+},
+{
+  "_id": {
+    "$oid": "66d66367142c048a8e6fa1bd"
+  },
+  "questionText": "What is NetFlow used for in network management?",
+  "options": {
+    "A": "To control user access to applications",
+    "B": "To analyze and monitor network traffic patterns",
+    "C": "To encrypt sensitive data",
+    "D": "To provide remote access to systems"
+  },
+  "correctAnswer": "B",
+  "insight": "NetFlow is used to analyze and monitor network traffic patterns, providing valuable insights into traffic flow, usage, and potential security issues by capturing and analyzing data about network communication.",
+  "moduleId": "4.2"
+}]
